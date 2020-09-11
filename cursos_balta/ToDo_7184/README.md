@@ -1,16 +1,20 @@
 # ToDo_7184
 
-A new Flutter project.
+Projeto Criado no Curso 7184 do balta.io.
 
-## Getting Started
+## Resumo
 
-This project is a starting point for a Flutter application.
+Nesse projeto criamos um aplicativo de To Do com save e delete usando SharedPreferences.
 
-A few resources to get you started if this is your first Flutter project:
+# Layout
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<table border="1" cellspacing="0" rules="none">
+  <tr>
+    <td><img src="./.imgs_readme/app.png" alt="Tela app"/></td>
+    <td><img src="./.imgs_readme/app_checked.png" alt="Tela do app com tile checado"/></td>
+  </tr>
+  <tr>
+    <td><img src="./.imgs_readme/app_exclude.png" alt="Tela do app deslizando para remover"/></td>
+  </tr>
+</table>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
