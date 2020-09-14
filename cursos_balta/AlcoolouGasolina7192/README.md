@@ -1,16 +1,20 @@
 # AlcoolouGasolina7192
 
-A new Flutter project.
+Projeto Criado no Curso 7192 do balta.io.
 
-## Getting Started
+## Resumo
 
-This project is a starting point for a Flutter application.
+Nesse projeto criamos um app que faz o calculo da melhor opção, Álcool ou Gasolina.
 
-A few resources to get you started if this is your first Flutter project:
+###Aprendizados mais importantes:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Componentização
+- Uso do Theme para gerenciar melhor as cores
+- Uso de Animated Container
+- Uso da LIB flutter_masked_text (MoneyMasked)
+- Passagem de Informações para Widgets
+- ETC
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Layout
+
+<img src="./.imgs_readme/AlcoolEGasolina.gif" alt="GIF do Layout do APP"/>
