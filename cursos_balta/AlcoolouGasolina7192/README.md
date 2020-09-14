@@ -6,7 +6,7 @@ Projeto Criado no Curso 7192 do balta.io.
 
 Nesse projeto criamos um app que faz o calculo da melhor opção, Álcool ou Gasolina.
 
-###Aprendizados mais importantes:
+##Aprendizados mais importantes:
 
 - Componentização
 - Uso do Theme para gerenciar melhor as cores
