@@ -1,3 +1,4 @@
+import 'package:Layouts7185/pages/home_page.dart';
 import 'package:Layouts7185/pages/sign_up_page.dart';
 import 'package:flutter/material.dart';
 
@@ -111,7 +112,14 @@ class LoginPage extends StatelessWidget {
                             "Sign In",
                             style: TextStyle(color: Colors.white),
                           ),
-                          onPressed: () {},
+                          onPressed: () {
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (context) => HomePage(),
+                              ),
+                            );
+                          },
                         ),
                       ),
                     ],
