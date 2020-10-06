@@ -1,3 +1,4 @@
+import 'package:Layouts7185/pages/cart_page.dart';
 import 'package:flutter/material.dart';
 import 'pages/login_page.dart';
 
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: LoginPage(),
+      home: CartPage(),
     );
   }
 }
